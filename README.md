@@ -1,2 +1,3 @@
 # NumberToMouse
- A mouse app for school PCs
+ 
+ an app for mouseless school computers (I needed this :P)

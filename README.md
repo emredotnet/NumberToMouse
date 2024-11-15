@@ -1,6 +1,8 @@
 # NumberToMouse
  
  an app for mouseless school computers (I needed this :P)
+ 
+[Releases](https://github.com/emredotnet/NumberToMouse/releases)
 
 [Direct Download](https://github.com/emredotnet/NumberToMouse/releases/download/release/NumberToMouse.zip)
 
